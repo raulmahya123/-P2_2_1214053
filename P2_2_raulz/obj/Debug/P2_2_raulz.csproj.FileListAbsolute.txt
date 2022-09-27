@@ -1,0 +1,8 @@
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\bin\Debug\P2_2_raulz.exe.config
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\bin\Debug\P2_2_raulz.exe
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\bin\Debug\P2_2_raulz.pdb
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\obj\Debug\P2_2_raulz.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\obj\Debug\P2_2_raulz.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\obj\Debug\P2_2_raulz.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\obj\Debug\P2_2_raulz.exe
+C:\Users\L E N O V O\source\repos\P2_2_raulz\P2_2_raulz\obj\Debug\P2_2_raulz.pdb
