@@ -20,9 +20,9 @@ namespace P2_2_raulz
             Console.Write("Masukkan Gaiji Pokok Kamu : ");
             gaji_pokok = Convert.ToInt32(Console.ReadLine());
 
-            TG = (gaji_pokok * 10) / 100;
-            B = (gaji_pokok * 50) / 100;
-            PPH = (gaji_pokok * 2.5) / 100;
+            TG = (gaji_pokok * 20) / 100;
+            B = (gaji_pokok * 15) / 100;
+            PPH = (gaji_pokok * 3.5) / 100;
             TOTAL = gaji_pokok + TG + B;
             Gaji_bersih = TOTAL - PPH;
             Hasil = Gaji_bersih;
